@@ -1,11 +1,6 @@
 Exerc 1
 
  package com.mycompany.algoritimos;
-
-/**
- *
- * @author ale
- */
 public class AlgoritimosAdo {
 
     public static void main(String[] args) {
